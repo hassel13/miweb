@@ -1,0 +1,44 @@
+
+body {
+    background-color: #f4f4f4;
+}
+
+.main-content {
+    padding: 40px;
+}
+
+.main-content h2 {
+    color: #634415;
+}
+
+.service {
+    margin-bottom: 30px;
+}
+
+.service h3 {
+    color: #7a514b;
+}
+
+.service p {
+    color: #444;
+}
+
+/* Estilos para las cajas */
+.service-box {
+    background-color: #cc9e61a9;
+    border: 1px solid #cc9e61a9;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.service-box h3 {
+    margin-top: 0;
+    font-size: 24px;
+}
+
+.service-box p {
+    font-size: 16px;
+    line-height: 1.5;
+}
